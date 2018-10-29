@@ -22,3 +22,7 @@ ext install eslint
 
 #### Tools and Plugins
 [Prettier](https://prettier.io)
+
+#### Style Guides
+Supercharge your linter with a style guide to conform your code to best practices around your specific application. The popular Airbnb React/JSX Style Guide is an excellent example for React applications.
+[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
